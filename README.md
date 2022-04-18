@@ -4,7 +4,7 @@
 
 This project analyzes weather data for a company which wants to set up a surf shop on an island in the Hawaii. Weather elements like precipitation and temperature trends are analyzed to provide information about good locations for the shop.
 
-# Purpose
+### Purpose
 
 By analyzing the precipitation and temperature data and investigation active stations which report these data, we can identify whether certain locations are a good fit for setting up surf shops. This will enable the company to make informed decisions regarding their investments and plans.
 
