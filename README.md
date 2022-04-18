@@ -1,6 +1,6 @@
 # Surfs_Up
 
-## Overview of the project
+## Overview of the analysis
 
 This project analyzes weather data for a company which wants to set up a surf shop on an island in the Hawaii. Weather elements like precipitation and temperature trends are analyzed to provide information about good locations for the shop.
 
